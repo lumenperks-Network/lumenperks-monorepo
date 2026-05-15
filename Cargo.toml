@@ -1,0 +1,3 @@
+[workspace]
+members = ["contracts/lumenperks"]
+resolver = "2"
